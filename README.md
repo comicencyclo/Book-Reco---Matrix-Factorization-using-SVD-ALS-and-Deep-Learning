@@ -10,4 +10,6 @@ Matrix Factorization involves decomposing a large matrix (usally an User-Item ma
 
 The original source data for this repository can be found on Kaggle public datasets:  https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m
 
-Note: results may vary in each run as I have not seeded everything, but core essence of the notebook remains the same.
+Note: 
+  - results may vary in each run as I have not seeded everything, but core essence of the notebook remains the same.
+  - if you are having trouble viewing the Jupyter notebook, try viewing the same in NBViwer at : https://nbviewer.jupyter.org/
